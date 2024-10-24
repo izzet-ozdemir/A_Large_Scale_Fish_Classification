@@ -18,3 +18,7 @@ Project Steps:
 - Prediction of Model
 - Visualization of Testing Data
 - Results of Project
+
+Note :
+This repository created at Kaggle and If you want, you can reach the project from below kaggle link.
+https://www.kaggle.com/code/iozdemir/fish-classification-with-ann/notebook
