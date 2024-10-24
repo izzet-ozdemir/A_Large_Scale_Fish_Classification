@@ -1,4 +1,4 @@
-# A Large Fish Classification Project
+# A Large Scale Fish Classification Project
  
 This Project is included to predict of fish by using deep learning technologies. On the other hand the project is final project of deep learning bootcamp that is organized by Global AI Hub.
 
